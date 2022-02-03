@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/willgraham/code/willgraham29/TaxiFareModel/mlruns/1/f0af8ae398f248e98957dacf3b348255/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: f0af8ae398f248e98957dacf3b348255
+run_uuid: f0af8ae398f248e98957dacf3b348255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1643824504292
+status: 1
+tags: []
+user_id: unknown
